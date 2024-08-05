@@ -1,0 +1,8 @@
+{mari} {20:53:17} {Mensagem de exemplo!}
+{mari} {21:11:18} {Mensagem de exemplo!}
+{mari} {21:14:54} {Mensagem de exemplo!}
+{mari} {21:16:39} {Mensagem de exemplo!}
+{mari} {21:17:6} {Mensagem de exemplo!}
+{mari} {21:20:5} {Mensagem de exemplo!}
+{mari} {21:23:35} {Mensagem de exemplo!}
+{mari} {16:49:12} {oi! isso é uma mensagem!}

@@ -1,0 +1,20 @@
+{mari} {20:53:17} {Mensagem de exemplo!}
+{mari} {21:11:18} {Mensagem de exemplo!}
+{mari} {21:14:54} {Mensagem de exemplo!}
+{mari} {21:16:39} {Mensagem de exemplo!}
+{mari} {21:17:6} {Mensagem de exemplo!}
+{mari} {21:20:5} {Mensagem de exemplo!}
+{mari} {21:23:35} {Mensagem de exemplo!}
+{mari} {12:41:3} {todas}
+{mari} {12:41:3} {todas}
+{mari} {13:34:48} {oi?}
+{mari} {13:57:22} {oi}
+{mari} {13:59:10} {oi}
+{mari} {14:1:57} {oi}
+{mari} {14:5:59} {oi}
+{mari} {14:7:53} {oi}
+{mari} {14:32:26} {testando}
+{mari} {14:35:50} {testandomais}
+{mari} {14:40:0} {testando mais uma vez}
+{mari} {14:43:13} {oi}
+{mari} {11:7:13} {oi}
